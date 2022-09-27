@@ -1,0 +1,41 @@
+1. Linux 指令
+
+
+2. Vim 编辑器
+
+
+3. 使用 git 指令
+
+	一般会报错，please tell me who you are
+
+$ git config --global user.name '你的昵称(不需要跟任何人对应)'
+
+$ git config --global user.email '你的邮箱(满足格式即可)'
+	
+	查看配置的信息  $ git config -l
+
+	修改可以直接重新填写覆盖
+
+
+备注：以后的指令，会在前面加上 $ ,这个符号不要带进去了
+
+
+	初始化仓库    $ git init
+
+	查看状态      $ git status
+
+	添加文件      $ git add .
+
+		      $ git add ./
+
+		      $ git add demo.txt
+
+	提交记录      $ git commit -m '提交完成'
+
+
+    注意：一般没有报错，没有提示证明是ok的，或者有一些提示简单阅读一下
+
+		只要不是以  error   或者  fatal  开头，都是正常的
+
+
+	
