@@ -38,4 +38,6 @@ $ git config --global user.email '你的邮箱(满足格式即可)'
 		只要不是以  error   或者  fatal  开头，都是正常的
 
 
-	
+	的沙发沙发
+水电费收费
+的方式告诉
